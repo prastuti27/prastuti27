@@ -38,9 +38,19 @@ I'm dedicated to crafting seamless user experiences and exploring innovative sol
 
 ## 📊 Stats
 
-![Prastuti Karmacharya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prastuti27&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
----
+### General Stats
+![Prastuti Karmacharya's  GitHub Stats](https://github-readme-stats.vercel.app/api?username=prastuti27&&show_icons=true&hide_title=true&count_private=true&theme=radical)
+
+### Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prastuti27&&layout=compact&theme=radical)
+
+### Contributions Graph
+![Prastuti Karmacharya's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=prastuti27&&theme=radical)
+
+### Activity Overview
+![Prastuti Karmacharya's  GitHub Activity](https://activity-graph.herokuapp.com/graph?username=prastuti27&&theme=github)
+
 
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/prastuti-karmacharya-714287190/)
