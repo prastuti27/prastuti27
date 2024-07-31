@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on open-source projects and contribute to meaningful tech initiatives.
 - 🤔 I’m looking for help with improving my knowledge in software testing and quality assurance.
 - 💬 Ask me about web development, React, or anything related to technology!
-- 📫 How to reach me: [Email](mailto:your-email@example.com) | [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- 😄 Pronouns: They/Them
-- ⚡ Fun fact: I once built a personal weather station using a Raspberry Pi!
+- 📫 How to reach me: [Email](mailto:prastutikarmacharya.gmail.com) | [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/prastuti-karmacharya-714287190/))
+
 
 Feel free to explore my repositories and connect with me!
