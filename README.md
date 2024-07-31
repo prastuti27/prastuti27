@@ -1,19 +1,47 @@
-## Hi there 👋
+# 🏄‍ I am
 
-Welcome to my GitHub profile! I'm Prastuti Karmacharya (https://github.com/prastuti27), a passionate developer and tech enthusiast.
+## 🧑‍💻 Prastuti Karmacharya
+A passionate frontend developer with a keen interest in React, Zustand, Redux, and Node.js from Nepal 🇳🇵
 
-<!--
-**yourusername/yourusername** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+❤️ Code | 🖤 Roam | 💙 Eat | 💚 Sleep
 
-Here are some ideas to get you started:
--->
+Experience is the name everyone gives to their mistakes.
 
-- 🔭 I’m currently working on a variety of exciting projects, including web development and automation.
-- 🌱 I’m currently learning more about advanced React techniques and exploring new programming languages.
-- 👯 I’m looking to collaborate on open-source projects and contribute to meaningful tech initiatives.
-- 🤔 I’m looking for help with improving my knowledge in software testing and quality assurance.
-- 💬 Ask me about web development, React, or anything related to technology!
-- 📫 How to reach me: [Email](mailto:prastutikarmacharya.gmail.com) | [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/prastuti-karmacharya-714287190/))
+I'm dedicated to crafting seamless user experiences and exploring innovative solutions in the world of web development. 
 
+🌱 I’m currently focused on mastering frontend technologies and building robust applications.
 
-Feel free to explore my repositories and connect with me!
+📫 How to reach me: [prastutikarmacharya@gmail.com](mailto:prastutikarmacharya@gmail.com)
+
+---
+
+## 🧰 Languages and Tools
+
+### Frontend
+- React
+- Zustand
+- Redux
+- JavaScript
+- HTML
+- CSS
+- Tailwind CSS
+- Sass
+
+### Backend
+- Node.js
+
+### Tools
+- Postman
+- Docker
+
+---
+
+## 📊 Stats
+
+![Prastuti Karmacharya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prastuti27&show_icons=true&hide_title=true&count_private=true&hide=prs)
+
+---
+
+## Connect with me
+- [LinkedIn](https://www.linkedin.com/in/prastuti-karmacharya-714287190/)
+- [GitHub](https://github.com/prastuti27)
